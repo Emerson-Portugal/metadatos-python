@@ -46,3 +46,11 @@ Instalamos las librerias de forma local
 ```
 pip install -r ".\requirements.tx
 ```
+
+## Forma de Uso
+
+> En la carpeta "img", vas agregar las fotos que quieres extraer su metadatos, especificar el nombre de tu foto y ejecutas el script 
+
+```
+f = open("./img/Foto2.jpg", "rb")
+```
