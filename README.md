@@ -2,6 +2,13 @@
 
 ## Requisitos
 - Python 
+- virtualenv
+
+> OJO
+
+```
+pip install virtualenv
+```
 
 
 > Lo primero que tenenemos que hacer es descargar o clonal el repositorio, para poder ejecutar el script para la extraccion de    Metadatos  de una foto y finalmente abrir el proyecto con nuestro editor.
