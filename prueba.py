@@ -2,7 +2,7 @@ import exifread
 import urllib.parse
 
 # Open the image file for reading (binary mode)
-f = open("ggh.jpg", "rb")
+f = open("./img/Foto2.jpg", "rb")
 
 # Return Exif tags
 tags = exifread.process_file(f)
